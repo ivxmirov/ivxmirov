@@ -2,22 +2,19 @@
 
 [![](https://raw.githubusercontent.com/ivxmirov/ivxmirov/master/profile.gif)](https://www.adamalston.com/)<!-- If you want the template for my gif, email me! -->
 
-### Languages
+### Languages and Technologies
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-
-### Technologies
-
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
 ### Projects
 
-[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/ivxmirov/cost_accounting)
-[![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/ivxmirov/the_snake_game)
-[![](https://img.shields.io/badge/-📝%20Summarizer-000)](https://github.com/ivxmirov/api_yamdb)
-[![](https://img.shields.io/badge/-🔬%20Overwatch-000)](https://github.com/ivxmirov/python_django_practice)
+[![](https://img.shields.io/badge/-🧬%20cost_accounting-000)](https://github.com/ivxmirov/cost_accounting)
+[![](https://img.shields.io/badge/-🦠%20the_snake_game-000)](https://github.com/ivxmirov/the_snake_game)
+[![](https://img.shields.io/badge/-📝%20api_yamdb-000)](https://github.com/ivxmirov/api_yamdb)
+[![](https://img.shields.io/badge/-🔬%20python_django_practice-000)](https://github.com/ivxmirov/python_django_practice)
 
 ### Cybersecurity Projects
 
