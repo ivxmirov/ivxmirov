@@ -1,6 +1,12 @@
-## Hello, World! I'm ivxmirov 👋
+## Hello, World ! I'm ivxmirov 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jjean-jacques10/)](https://www.linkedin.com/in/jjean-jacques10/) [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/jjeanjacques10/)](https://github.com/jjeanjacques10/) [![Medium](https://img.shields.io/badge/-Medium-242A2D?style=flat&logo=medium&logoColor=white&link=https://jjeanjacques10.medium.com)](https://jjeanjacques10.medium.com) [![YouTube](https://img.shields.io/badge/-Youtube-FF0000?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCdmQOk2zNiiPlOc0p-Mtj5A)](https://www.youtube.com/channel/UCdmQOk2zNiiPlOc0p-Mtj5A) [![Instagram](https://img.shields.io/badge/-Instagram-D42F8A?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/jjean_dev)](https://www.instagram.com/jjean_dev) ![](https://komarev.com/ghpvc/?username=jjeanjacques10)
+[![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/ivxmirov/)](https://github.com/ivxmirov/)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white&link=https://t.me/ivxmirov)](https://t.me/ivxmirov)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:ivxmirov@gmail.com)](mailto:ivxmirov@gmail.com)
+![](https://komarev.com/ghpvc/?username=ivxmirov)
+<!--
+[![Email](https://img.shields.io/badge/-Email-005FF9?style=flat&logo=mail.ru&logoColor=white&link=mailto:iterum343@yandex.ru)](mailto:iterum343@yandex.ru)
+-->
 
 <img src="./jjean-dev-logo-v1-04.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Logo jjean_dev png">
 
@@ -9,15 +15,17 @@ Python developer with 3+ years of experience building mission-critical distribut
 <br>
 <br>
 
+<!--
 - 💻 **Staff Software Engineer** at **[Itaú Unibanco](https://www.itau.com.br/)**
 - 🔭 I'm working with **Distributed Systems**, **Cloud-Native Architectures**, and **Event-Driven Design**.
 - 🎓 **MBA in Cloud & Architecture** from **[FIAP](https://www.fiap.com.br/)**
 - 📄 **Certified AWS Solutions Architect** & **AWS Practitioner Certification**
 - 🎤 Speaker at events like **[The Developers Conference (TDC)](https://thedevconf.com/palestrante/jean-jacques-barros)**
+-->
 
 </p>
 
-### My skills
+### Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
@@ -30,10 +38,10 @@ Python developer with 3+ years of experience building mission-critical distribut
 
 ### Projects
 
-[![](https://img.shields.io/badge/-🧬%20cost_accounting-000)](https://github.com/ivxmirov/cost_accounting)
-[![](https://img.shields.io/badge/-🦠%20the_snake_game-000)](https://github.com/ivxmirov/the_snake_game)
+[![](https://img.shields.io/badge/-🔢🖊️%20cost_accounting-000)](https://github.com/ivxmirov/cost_accounting)
+[![](https://img.shields.io/badge/-🐍%20the_snake_game-000)](https://github.com/ivxmirov/the_snake_game)
 [![](https://img.shields.io/badge/-📝%20api_yamdb-000)](https://github.com/ivxmirov/api_yamdb)
-[![](https://img.shields.io/badge/-🔬%20python_django_practice-000)](https://github.com/ivxmirov/python_django_practice)
+[![](https://img.shields.io/badge/-🍳%20python_django_practice-000)](https://github.com/ivxmirov/python_django_practice)
 
 <!--
 **ivxmirov/ivxmirov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
