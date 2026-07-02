@@ -8,12 +8,9 @@
 [![Email](https://img.shields.io/badge/-Email-005FF9?style=flat&logo=mail.ru&logoColor=white&link=mailto:iterum343@yandex.ru)](mailto:iterum343@yandex.ru)
 -->
 
-<img src="./jjean-dev-logo-v1-04.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Logo jjean_dev png">
-
-<p align="left">
-Python developer with 2+ years of experience building mission-critical distributed systems for the financial sector. Passionate about process optimization, technical leadership, and mentoring, with a deep focus on scalable and resilient cloud architectures. I enjoy sharing knowledge through <a href="https://jjeanjacques10.medium.com">tech articles</a> and conference talks.
-<br>
-<br>
+Python developer with 2+ years of experience
+- The enthusiast
+- I’m looking to collaborate on startup
 
 <!--
 - 💻 **Staff Software Engineer** at **[Itaú Unibanco](https://www.itau.com.br/)**
@@ -23,18 +20,22 @@ Python developer with 2+ years of experience building mission-critical distribut
 - 🎤 Speaker at events like **[The Developers Conference (TDC)](https://thedevconf.com/palestrante/jean-jacques-barros)**
 -->
 
-</p>
-
 ### Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-6E4B8B?logo=alembic&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?logo=githubcopilot&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-1A1A1A?logo=cursor&logoColor=white)
 
 ### Projects
 
