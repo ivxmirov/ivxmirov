@@ -1,4 +1,4 @@
-## Hello, World ! I'm Ilya Khmyrov 👋
+## Hello 👋 I'm Ilya Khmyrov 
 
 [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/ivxmirov/)](https://github.com/ivxmirov/)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white&link=https://t.me/ivxmirov)](https://t.me/ivxmirov)
@@ -11,7 +11,7 @@
 <img src="./jjean-dev-logo-v1-04.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Logo jjean_dev png">
 
 <p align="left">
-Python developer with 3+ years of experience building mission-critical distributed systems for the financial sector. Passionate about process optimization, technical leadership, and mentoring, with a deep focus on scalable and resilient cloud architectures. I enjoy sharing knowledge through <a href="https://jjeanjacques10.medium.com">tech articles</a> and conference talks.
+Python developer with 2+ years of experience building mission-critical distributed systems for the financial sector. Passionate about process optimization, technical leadership, and mentoring, with a deep focus on scalable and resilient cloud architectures. I enjoy sharing knowledge through <a href="https://jjeanjacques10.medium.com">tech articles</a> and conference talks.
 <br>
 <br>
 
