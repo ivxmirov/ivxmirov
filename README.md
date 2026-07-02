@@ -1,4 +1,4 @@
-## Hello, World ! I'm ivxmirov 👋
+## Hello, World ! I'm Ilya Khmyrov 👋
 
 [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/ivxmirov/)](https://github.com/ivxmirov/)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white&link=https://t.me/ivxmirov)](https://t.me/ivxmirov)
