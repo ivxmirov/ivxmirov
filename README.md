@@ -9,16 +9,9 @@
 -->
 
 Python developer with 2+ years of experience
-- The enthusiast
-- I’m looking to collaborate on startup
-
-<!--
-- 💻 **Staff Software Engineer** at **[Itaú Unibanco](https://www.itau.com.br/)**
-- 🔭 I'm working with **Distributed Systems**, **Cloud-Native Architectures**, and **Event-Driven Design**.
-- 🎓 **MBA in Cloud & Architecture** from **[FIAP](https://www.fiap.com.br/)**
-- 📄 **Certified AWS Solutions Architect** & **AWS Practitioner Certification**
-- 🎤 Speaker at events like **[The Developers Conference (TDC)](https://thedevconf.com/palestrante/jean-jacques-barros)**
--->
+- passionate about backend, databases, and clean architecture;
+- looking to join a startup — ready to build, break, and iterate fast;
+- enthusiast, love clean code and well-structured projects.
 
 ### Skills
 
