@@ -1,4 +1,4 @@
-## Hello 👋 I'm Ilya Khmyrov 
+### Контакты
 
 [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/ivxmirov/)](https://github.com/ivxmirov/)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white&link=https://t.me/ivxmirov)](https://t.me/ivxmirov)
@@ -8,12 +8,11 @@
 [![Email](https://img.shields.io/badge/-Email-005FF9?style=flat&logo=mail.ru&logoColor=white&link=mailto:iterum343@yandex.ru)](mailto:iterum343@yandex.ru)
 -->
 
-Python developer with 2+ years of experience
-- passionate about backend, databases, and clean architecture;
-- looking to join a startup — ready to build, break, and iterate fast;
-- enthusiast, love clean code and well-structured projects.
+### Обо мне
 
-### Skills
+Python-разработчик с 4+ годами опыта
+
+### Навыки
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
@@ -32,7 +31,7 @@ Python developer with 2+ years of experience
 ![Cursor](https://img.shields.io/badge/Cursor-1A1A1A?logo=cursor&logoColor=white)
 ![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?logo=telegram&logoColor=white)
 
-### Projects
+### Проекты
 
 [![](https://img.shields.io/badge/-🔢🖊️%20cost_accounting-1B5E20)](https://github.com/ivxmirov/cost_accounting)
 [![](https://img.shields.io/badge/-🐍%20the_snake_game-2E7D32)](https://github.com/ivxmirov/the_snake_game)
