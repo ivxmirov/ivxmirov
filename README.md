@@ -10,7 +10,7 @@
 
 ### Обо мне
 
-Python-разработчик с 4+ годами опыта
+Python-разработчик
 
 ### Навыки
 
@@ -36,9 +36,9 @@ Python-разработчик с 4+ годами опыта
 ### Проекты
 
 [![](https://img.shields.io/badge/-🔢🖊️%20cost_accounting-1B5E20)](https://github.com/ivxmirov/cost_accounting)
-[![](https://img.shields.io/badge/-🐍%20the_snake_game-2E7D32)](https://github.com/ivxmirov/the_snake_game)
+[![](https://img.shields.io/badge/-🍋%20python_django_practice-2E7D32)](https://github.com/ivxmirov/python_django_practice)
 [![](https://img.shields.io/badge/-📝%20api_yamdb-43A047)](https://github.com/ivxmirov/api_yamdb)
-[![](https://img.shields.io/badge/-🍋%20python_django_practice-66BB6A)](https://github.com/ivxmirov/python_django_practice)
+[![](https://img.shields.io/badge/-🐍%20the_snake_game-66BB6A)](https://github.com/ivxmirov/the_snake_game)
 
 <!--
 **ivxmirov/ivxmirov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
